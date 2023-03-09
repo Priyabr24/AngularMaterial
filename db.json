@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "date": "2023-03-08T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 200,
+      "Comment": "This is fresh apple",
+      "id": 1
+    },
+    {
+      "productName": "Tomato",
+      "category": "Vegetables",
+      "date": "2023-03-07T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 100,
+      "Comment": "This is fresh veg",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
